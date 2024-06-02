@@ -1,8 +1,7 @@
-# React + Vite
+# <span style="border: 2px solid black; padding: 10px;"> Multi Vendor Ecommerce </span>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+ <ul>
+        <li>Multi Vendor ecommerce website for online shopping, it's allows multi vendor features to allow sellers to sell on this website.</li>
+        <li>Link to Backend source code:https://github.com/Chaimaela/Backend-MERN-Multivendor  </li>
+        <li>Link to second Frontend source code: https://github.com/Chaimaela/Dashboard-MERN-Multivendor</li>
+    </ul>
